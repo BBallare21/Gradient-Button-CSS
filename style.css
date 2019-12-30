@@ -4,6 +4,25 @@ body {
     background: #292929;
 }
 
+.change {
+    position: absolute;
+    background: white;
+    height: 200px;
+    width: 400px;
+    top: 20%;
+    left: 38%;
+    border-radius: 20px;
+}
+
+p {
+    text-align: center;
+    margin-top: 22%;
+    color: crimson;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .center {
     position: absolute;
     top: 50%;
